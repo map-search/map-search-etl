@@ -1,0 +1,3 @@
+org.elasticsearch.join.spi.ParentJoinNamedXContentProvider
+org.elasticsearch.search.aggregations.matrix.spi.MatrixStatsNamedXContentProvider
+org.elasticsearch.index.rankeval.RankEvalNamedXContentProvider

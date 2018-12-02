@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: elasticsearch-hadoop
+Implementation-Version: 6.5.1
+Implementation-Vendor-Id: org.elasticsearch.hadoop
+Repository-Revision: 68761dca2d649c55f2dac173f81677e0465f16cb
+Created-By: 1.8.0_181 (Oracle Corporation)
+Implementation-URL: https://github.com/elastic/elasticsearch-hadoop
+Implementation-Vendor: Elastic
+

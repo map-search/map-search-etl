@@ -4,7 +4,7 @@
 		module="osm-search_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20181129195918"
+		publication="20181202211906"
 	>
 		<description>
 		OSM-Search
